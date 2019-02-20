@@ -1,0 +1,19 @@
+CREATE SCHEMA `mario` ;
+
+
+CREATE TABLE `mario`.`personajes` (
+  
+`idpersonajes` INT NOT NULL AUTO_INCREMENT,
+  
+`protagonista` VARCHAR(45) NOT NULL,
+  
+`poder` VARCHAR(45) NOT NULL,
+  
+`yoshi` VARCHAR(45) NOT NULL,
+  
+PRIMARY KEY (`idpersonajes`)
+)ENGINE=InnoDB;;
+
+INSERT personajes (idpersonajes,protagonista,poder,yoshi)
+
+VALUES (1,'luigi','fuego','rosa')

@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(23,146,255);
+}
+
+img{
+    width:800px; 
+    height:200px;
+    display:block;
+    margin:auto;
+}
+
+table{
+    
+        border:3px solid;
+        color:rgb(0,0,0);
+	text-align:center;
+	border-collapse: collapse;
+	margin-left:auto;
+	margin-right:auto;
+    
+}
+
+#img1{
+    
+    width:70px; 
+    height:70px;
+    
+}
+
+#img2{
+    
+    width:70px; 
+    height:70px;
+    
+}
+
+#img3{
+    
+    width:70px; 
+    height:70px;
+    
+}

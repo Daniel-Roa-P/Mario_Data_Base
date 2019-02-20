@@ -1,0 +1,22 @@
+body{ 
+    
+    background-color:rgb(244,63,63);
+}
+
+table{
+	border:3px solid;
+        color:rgb(0,0,0);
+	text-align:center;
+	border-collapse: collapse;
+	margin-left:auto;
+	margin-right:auto;
+}
+h2{   
+    font-family:"Comic Sans MS";
+}
+
+img{
+    width:200px; 
+    height:200px;
+    margin:auto;
+}
